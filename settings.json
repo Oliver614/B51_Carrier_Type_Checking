@@ -1,0 +1,14 @@
+
+{
+  "plc_data" : {
+    "IP_ADDRESS" : "192.168.0.0",
+    "RACK_NO" : 0,
+    "SLOT_NO" : 0,
+    "USE_DB" : 0
+  },
+
+  "neural_net_data" : {
+    "image_filepath": "Images",
+    "model_path" : ""
+  }
+}

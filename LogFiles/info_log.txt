@@ -1,0 +1,3 @@
+[INFO]: 2022/05/05, 03:37:13 [FROM]: Main [MESSAGE]: This is a test
+[INFO]: 2022/05/06, 01:52:47 [FROM]: main_init [MESSAGE]: Started Initialisation
+
