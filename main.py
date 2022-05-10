@@ -19,8 +19,7 @@ def init():
     if not vision_interface_.init_cameras():
         Logger.log_error("min_init", "Failed to initialise cameras!")
     # Todo: initialise neural net
-    neural_net_ = None
-    return plc_interface_, vision_interface_, neural_net_
+    return plc_interface_, vision_interface_
 
 
 def main():
